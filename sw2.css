@@ -1,0 +1,26 @@
+
+	#id1 {
+		text-align: center;
+		text-transform: uppercase;
+		color: whitesmoke;
+
+	}
+	#id2 {
+		color: crimson;
+	}
+	#id3 {
+		color: lightsalmon;
+	}
+	.class1 {
+		text-transform: uppercase;
+
+	}	
+
+	.class2 {
+		text-decoration: underline;
+		text-shadow: 5px 5px 5px yellow;}
+
+	img {border-radius: 50px}
+	table {border-color: black;
+			border-width: 10px;
+			}
